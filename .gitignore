@@ -6,4 +6,4 @@ __pycache__/
 *.pyo
 *.log
 .pytest_cache/
-usage_log.jsonl
+_pieces
